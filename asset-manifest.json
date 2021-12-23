@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/anynft/static/css/main.169680b9.chunk.css",
+    "main.js": "/anynft/static/js/main.7fa7db91.chunk.js",
+    "main.js.map": "/anynft/static/js/main.7fa7db91.chunk.js.map",
+    "runtime-main.js": "/anynft/static/js/runtime-main.b4656af2.js",
+    "runtime-main.js.map": "/anynft/static/js/runtime-main.b4656af2.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/anynft/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.635ba309.chunk.js": "/anynft/static/js/2.635ba309.chunk.js",
+    "static/js/2.635ba309.chunk.js.map": "/anynft/static/js/2.635ba309.chunk.js.map",
+    "index.html": "/anynft/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/anynft/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.169680b9.chunk.css.map": "/anynft/static/css/main.169680b9.chunk.css.map",
+    "static/js/2.635ba309.chunk.js.LICENSE.txt": "/anynft/static/js/2.635ba309.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4656af2.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.635ba309.chunk.js",
+    "static/css/main.169680b9.chunk.css",
+    "static/js/main.7fa7db91.chunk.js"
+  ]
+}
